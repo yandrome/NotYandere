@@ -1,2 +1,2 @@
 # NotYandere
-Not Yandere
+Not Yandere.
